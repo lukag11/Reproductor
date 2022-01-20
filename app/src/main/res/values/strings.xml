@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="corto">AUDIO CORTO SOUNDPOOL</string>
+    <string name="largo">AUDIO LARGO MEDIAPLAYER</string>
+</resources>
